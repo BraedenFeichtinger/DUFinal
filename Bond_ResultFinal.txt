@@ -1,0 +1,2 @@
+purchase_id, Bond Symbol, No. Shares, Purchase Price, Current Value, Purchase Date, Coupon, Yield
+1, GT2:GOV, 200, 100.02, 100.05, 2017-08-01, 1.38, 1.35
